@@ -1,4 +1,5 @@
-
+<!-- E2E shared line: baseline -->
+<!-- E2E remote-only pull: 2026-09-15 -->
 
 <!-- ChipCrab E2E 2026-09-15: local save and preview only; no remote push. -->
 # ttttcod — ChipCrab Git / SoC 验收 Demo
