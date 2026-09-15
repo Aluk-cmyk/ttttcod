@@ -2,7 +2,7 @@
 <!-- E2E remote-only pull: 2026-09-15 -->
 
 <!-- ChipCrab E2E 2026-09-15: local save and preview only; no remote push. -->
-# ttttcod — ChipCrab Git / SoC 验收 Demo
+# ttttcod — ChipCrab Git / SoC 验收 Demo测试
 
 一个独立的 SystemVerilog 示例仓库，用于体验「保存项目 → 查看 Git 改动 → 确认推送」，以及 IP 文件变化提醒。与 ChipCrab 产品源码完全分开。
 
