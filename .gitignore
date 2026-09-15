@@ -1,0 +1,7 @@
+build/
+*.vcd
+*.vvp
+obj_dir/
+.DS_Store
+.env
+.env.*
