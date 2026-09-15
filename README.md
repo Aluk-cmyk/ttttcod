@@ -50,3 +50,5 @@ make test
 本地开发可通过 SSH 推送；ChipCrab 服务端使用独立的 HTTPS 授权，本机 SSH 登录不能替代该授权。
 
 后续操作见 [验收步骤](docs/git-acceptance.md)。普通保存只保存 ChipCrab Workspace；明确点击确认推送才修改 GitHub。
+
+<!-- E2E concurrent remote update: preserve this line after retry. -->
