@@ -1,3 +1,4 @@
+// Git-IP joint acceptance 20260916: Counter source changed
 `timescale 1ns/1ps
 
 // Counter IP: synchronous active-high reset; enable-controlled 8-bit count.
